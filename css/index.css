@@ -1,0 +1,39 @@
+.cajaHeader{
+    width: 100%;
+    height: 200px;
+  }
+ 
+ .cajaHeader img {
+     width: 100%;
+     height: 200px;
+ }
+
+ .contenido{
+     width: 80%;
+     margin: 0px auto;
+     display: flex;
+     justify-content: saround-between;
+ }
+
+ .contenido div {
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    color: blueviolet; 
+    text-align: center;
+ }
+
+ .contenido div a {
+    text-decoration:none;
+    cursor: pointer;
+ }
+
+ .contenido div a:hover {
+    font-size: 50px;
+ }
+
+ .contenifo-info{
+  width: 100%;
+  height: 200px;
+  background-color: red;
+ }
